@@ -11,6 +11,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     padding: 12px 16px;
+    margin: 8px;
 }
 
 button:focus, a:focus {
@@ -451,6 +452,8 @@ nav .caret {
 
 .btn {
     margin: 0 5px 5px 0;
+    min-width: 48px;
+    min-height: 48px;
 }
 
 .btn.pull-right {
@@ -542,7 +545,7 @@ a[data-lightbox] {
 
 .keywords {
     font-size: 1px;
-    color: #666666;
+    color: #333333;
 }
 
 a[data-lightbox]:hover::before {
@@ -776,7 +779,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #2C3E50;
 }
 
 .bgc-atomic-tangerine {
@@ -784,7 +787,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
