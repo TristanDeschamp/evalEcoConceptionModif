@@ -18,6 +18,10 @@ button:focus, a:focus {
     outline: 3px solid #F3976C; /* Couleur visible pour le focus */
 }
 
+a{
+    color: #FFFFFF!important;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
