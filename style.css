@@ -716,6 +716,14 @@ p {
     margin: auto auto auto auto;
 }
 
+.social .fa {
+    color: #FFFFFF;
+}
+
+.social .fa:hover {
+    color: #FFD700;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -784,7 +792,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #E65100;
+    background-color: #B03A2E;
 }
 
 .tc-white {
